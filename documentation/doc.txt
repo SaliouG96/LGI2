@@ -1,0 +1,76 @@
+Ceci est un projet qui a pour but de mettre en place une plateforme d'apprentissage cree par les etudiants de la 
+LGI2 pour les etudiants de la LGI2.
+
+1-)TECHNOLOGIES A UTILISER
+-MVC
+-PHP
+-JS
+-HTML
+-CSS
+-MySql
+-Git
+-Github
+-Bootstrap4
+-Disha
+-Font awesome
+-Recaptcha
+-Parsley
+-Google Analytics
+
+2-) Liens utiles
+-https://www.youtube.com/watch?v=2decTjcdDKo&list=PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw&index=26
+-https://www.youtube.com/watch?v=3Hrhuz8-w2M&list=PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw&index=27
+-http://lorempixel.com/
+-https://unsplash.com/
+-https://undraw.co/illustrations
+
+3-) Differents Points
+-Acceuil
+-Responsabilite
+-Tutoriel
+-Cours
+-Minichat
+-Forum
+-Calendrier Pedagogique
+-Partage
+-A propos
+-Contact
+-Classement
+
+4-)Details
+
+La plateforme va regrouper plusieurs points à savoir:
+
+-Acceuil : on va decrire en quelque sorte tout ce qu'il faut sur la Lgi 2 (la generation, le nombre detudiants,liste de la classe, les differents groupes de TD et TP...)
+	
+-Cours : on parlera de l'evolution des cours (nombres d'heures qui reste), et aussi le point de vue des etudiants par rapport au cours tout en gardant si possible l'anonymat
+
+-Calendrier : Les differents evenements à venir à savoir les devoirs, examens, les differents conges ...
+
+-Responsabilite  : L'identite des delegues , de l'adjoint et du responsable
+
+-Tutoriel : Une partie reservee au differents  tutoriels dans les differents sous domaines de l'informatique realise par les etudiants de la LGI2 histoire de s'entre aider.
+
+-Minichat : Permettre à tout en chaqun de donner son point de vue sur un theme en rapport avec l'informatique , les nouvelles technologies etc... tout en gardant l'anonymat .
+
+-FORUM : Mettre en place un mini forum au vrai sens du terme histoire de s'entre aider dans tous les domaines
+
+-Classement : Histoire de mettre un peu d'humour dans le projet on va realiser un classement des etudiants en fonction de differents themes à savoir :
+..Les absenteistes
+..Les retardataires
+..Les comediens
+..Les etudiants au vrai sens du terme
+..Les sois disant etudiant
+..Team Mbolomi
+..etc...
+
+-Partage : Dans cette partie on va partager toutes les informations en rapport avec l'avancée technologique
+
+-A propos : Expliquer en detail le but de la page
+
+-Contact : Mettre un formulaire si au cas ou quelqu'un voulez nous joindre en y ajoutant le systeme de mailing
+
+La plateforme sera opensource du cout on mettra le projet sur github de sorte que chaqun pourra apporter sa contribution .
+
+Et pour terminer , on peut se poser une question vraiment legitime cette plateforme a t-elle un sens ?
+A priori non mais dans le cadre de notre formation "theorie c'est bien mais pratique c'est mieux" du coup on peut en profiter pour pratiquer et partager beaucoup de connaissances . 

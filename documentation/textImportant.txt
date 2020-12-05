@@ -1,0 +1,7 @@
+/*----Texte qui peut se mettre au niveau de l'acceuil----*/
+
+monPortail offre un accès centralisé à différents services de l’Université tels que la demande d’admission,
+l’inscription aux cours,
+les sites de cours et la commande de documents officiels.
+
+
